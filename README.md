@@ -16,9 +16,3 @@ Este é um projeto simples de controle de estoque, onde:
 - Dashboard no Power BI baseado neste CSV para visualização dos dados.
 
 ---
-
-## Como usar
-
-1. Clone este repositório para seu computador:  
-   ```bash
-   git clone https://github.com/seuusuario/controle-estoque-python-powerbi.git
